@@ -6,4 +6,4 @@ Slack Username: DavidA
 
 Project Description: This project demonstrates the deployment of a simple NGINX web server serving a custom HTML page as part of the HNG13 DevOps Stage 0 task.
 
-Server IP/Domain: [Add after deployment]
+Server IP/Domain: 18.209.45.150
